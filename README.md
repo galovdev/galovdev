@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 · https://www.galov.dev/ · https://www.behance.net/galovega · contact@galov.dev
 
 <!--
 **galovdev/galovdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
