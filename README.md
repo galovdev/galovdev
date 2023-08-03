@@ -1,6 +1,6 @@
 Hi there 👋
 
-👤 Software Engineer 
+👤 Swe Student
 
 🖥️ https://www.galov.dev/ 
 
