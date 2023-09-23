@@ -1,6 +1,4 @@
-Hi there 👋
-
-👤 SWE Student 🇲🇽
+Hi there 👋 🇲🇽
 
 🖥️ https://www.galov.dev/ 
 
